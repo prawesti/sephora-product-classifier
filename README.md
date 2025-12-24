@@ -53,8 +53,18 @@ Berdasarkan hasil pengujian, berikut adalah performa ketiga model:
 | **Model 3: Embedding** | **83%** | **Model Terbaik.** Lonjakan akurasi signifikan terjadi karena penggunaan embedding yang mampu menangkap hubungan semantik antar brand dengan lebih baik. |
 
 
+## 💻 Sistem Website Sederhana 
+Aplikasi web ini dibangun menggunakan Streamlit, sebuah framework Python yang memungkinkan transformasi skrip machine learning menjadi dashboard interaktif secara efisien.
+1. Panel Konfigurasi (Sidebar Kiri) Pemilihan Arsitektur Model
+   
+   Panel Input Data (Main Page) Identitas Produk, Statistik dan Popularitas
+   
+![st1](st1.png)
 
-## 💻 Panduan Menjalankan Secara Lokal
+2. Prediction Card (Hasil) Kategori Terdeteksi dan Informasi Model
+![st2](st2.png)
+
+## 🔧 Panduan Menjalankan Secara Lokal
 
 Ikuti langkah-langkah berikut untuk menjalankan website prediksi di komputer Anda:
 
